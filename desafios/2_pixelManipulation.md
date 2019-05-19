@@ -2,7 +2,7 @@
 
 Esse desafio visa exemplificar a utilização da biblioteca OpenCV com a linguagem python e é esperado que ao fim a aquisição da habilidade de manibulação da cor individual de pixels em uma imagem.
 
-Para execução desta desafio é imprescindível a compreenção dos asuntos abordados no [primeiro desafio](./1_displayingImages.md).
+Para execução deste desafio é imprescindível a compreenção dos asuntos abordados no [primeiro desafio](./1_displayingImages.md).
 
 ## Construção do script
 
