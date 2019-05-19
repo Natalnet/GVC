@@ -34,6 +34,7 @@ Para participar das ativadades do grupo entre em contato com um dos lideres para
 * [Introdução aos comandos do terminal](https://github.com/Natalnet/ModulosDeEstudo/tree/master/Linux)
 * [Python](https://github.com/Natalnet/ModulosDeEstudo/tree/master/Python/Basico)
 * [Ambientes virtuais python](./tutoriais/pythonVirtualEnvs.md)
+* [Instalação do OpenCV](./tutoriais/opencvInstalation.md)
 
 ## Livros
 
