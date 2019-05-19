@@ -36,7 +36,12 @@ Para participar das ativadades do grupo entre em contato com um dos lideres para
 * [Ambientes virtuais python](./tutoriais/pythonVirtualEnvs.md)
 * [Instalação do OpenCV](./tutoriais/opencvInstalation.md)
 
-## Livros
+## Desafios
+
+1. [Exibir Imagens](./desafios/1_displayingImages.md)
+
+## Materiais Adicionais
 
 * [Learning python](https://www.packtpub.com/packt/free-ebook/learning-python)
 * [Learning opencv 3 computer vision with python](https://www.packtpub.com/free-ebook/opencv-python)
+* [Tutoriais da disiplina ministrada pelo prof. Agostinho Brito](https://agostinhobritojr.github.io/tutorial/pdi/)
