@@ -25,7 +25,7 @@ A criação de um ambiente se dá de maneira muito simples pois o utilitário a 
 ```console
 user@computer:~$ mkdir myEnvs
 user@computer:~$ cd myEnvs
-user@computer:~$ python3 -m venv <nome_do_ambiente>
+user@computer:~/myEnvs $ python3 -m venv <nome_do_ambiente>
 ```
 
 Para ativar o seu ambinete faça:
@@ -68,7 +68,7 @@ user@computer:~$ source activate <nome_do_ambiente>
 Com seu ambinete ativado, para instalar um pacote faça:
 
 ```console
-user@computer:~$ conda install <nome_do_pacote>
+(<nome_do_ambiente>) user@computer:~$ conda install <nome_do_pacote>
 ```
 
 ## Dúvidas, comentários e sugestões
