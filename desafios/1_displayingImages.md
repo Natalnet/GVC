@@ -21,7 +21,7 @@ if __name__ == '__main__':
 
 ```
 
-Em seguida cria-se a variavel img que recebe o retorno da função *imread* que recebe como argumento obrigatório o caminho da imagem a ser lida e como argumento opcional se deve ser lida em tons de cinza ou colorida. O retorno dessa função é uma matriz contendo o valor de cor de cada pixel.
+Em seguida cria-se a variável img que recebe o retorno da função *imread* que recebe como argumento obrigatório o caminho da imagem a ser lida e como argumento opcional se deve ser lida em tons de cinza ou colorida. O retorno dessa função é uma matriz contendo o valor de cor de cada pixel.
 
 ```python
 import cv2 as cv
@@ -84,7 +84,7 @@ Ao executar o script deve-se ver um retorno similar a:
 
 ![exempleOutput](./imgs/desafio1_tutorial.png)
 
-Se você conseguiu chegar até o final deste tutorial, as principais funcionalidades da biblioteca estão funcionando em sua máquina e não deve haver percausos em relação ao ambiente de desenvolvimento para os próximos tutoriais.
+Se você conseguiu chegar até o final deste tutorial, as principais funcionalidades da biblioteca estão operacionais em sua máquina e não deve haver percausos em relação ao ambiente de desenvolvimento para os próximos tutoriais.
 
 ![nice](./imgs/youDidIt.gif)
 
@@ -103,3 +103,7 @@ Ao fim a utilização do programa deve ser semelhante a:
 ```
 
 ![exercicio](./imgs/desafio1_exercicio.png)
+
+## Dúvidas, comentários e sugestões
+
+Entrar em contato com [Richardson Santiago](https://github.com/vanluwin).
