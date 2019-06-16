@@ -38,6 +38,7 @@ Para participar das ativadades do grupo entre em contato com um dos lideres para
 
 ## Desafios
 
+1. [Lista de Exécicios de Python](./desafios/0_python.md)
 1. [Exibir Imagens](./desafios/1_displayingImages.md)
 1. [Manipulação de pixels](./desafios/2_pixelManipulation.md)
 
