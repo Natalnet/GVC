@@ -100,6 +100,8 @@ if __name__ == '__main__':
 ![Imagem de entrada](./imgs/desafio3_tutorial_in.png)
 ![Imagem de saída](./imgs/desafio3_tutorial_out.png)
 
+Pode-se perceber que tais filtros não são muito robustos pois ao depender diretamente da cor de cada pixel estão muito vulneraveis a mudanças de iluminação.
+
 ## Exercício
 
 A partir do programa exemplo e recebendo a imagem a seguir como entrada, 
